@@ -4,7 +4,7 @@
 // Function to sort array of integers in ascending order
 const arrAsc = (numArray)=>{
     return numArray.sort((a,b)=>{
-        return a -b
+        return a - b
     })
 }
 
